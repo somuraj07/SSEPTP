@@ -21,7 +21,7 @@ import chemistryLab from "../assets/chemistryLab.jpg";
 import lectureHall from "../assets/LectureHall.jpg";
 import studentCommonArea from "../assets/studentCommonArea.jpg";
 import cadLab from "../assets/cadLab.jpg";
-import labMech from "../assets/labMech.jpg";
+import labMech from "../assets/labmech.jpg";
 import CentralLibraryUpdate from "../assets/CentralLibraryUpdate.jpg";
 import LibraryReadingSSE from "../assets/LibraryReadingSSE.jpg";
 import physicsLab from "../assets/physicsLab.jpg";
