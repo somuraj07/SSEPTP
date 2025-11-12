@@ -28,6 +28,7 @@ import image8 from "../assets/risefaculty/image8.png"
 import image9 from "../assets/risefaculty/image9.png"
 
 import riseLogo from "../assets/risefaculty/rise_logo.jpg"
+import andreas from "../assets/risefaculty/andreas.jpg"
 import christina from "../assets/risefaculty/christina.jpg"
 import markus from "../assets/risefaculty/markus.jpg"
 import thomas from "../assets/risefaculty/thomas.jpg"
@@ -130,7 +131,7 @@ function RIT() {
       department: "Data Analytics",
       specialization: "Big Data, Business Intelligence",
       experience: "10 years",
-      image: riseLogo,
+      image: andreas,
     },
     {
       id: 4,
