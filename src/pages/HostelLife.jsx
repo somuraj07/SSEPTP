@@ -16,7 +16,7 @@ import girlsStanding from "../assets/girlsStanding.jpg";
 import hostelLife from "../assets/hostelLife.jpg";
 import dinnerWithFrds from "../assets/dinnerWithFrds.jpg";
 import hostelMenSSE from "../assets/HostelMenSSE.jpg";
-import computerLab from "../assets/computerLab.jpg";
+import computerLab from "../assets/computerlab.jpg";
 import girlsHostel from "../assets/girlsHostel.jpg";
 import hostelRooms from "../assets/hostelRooms.jpg";
 import foodSSE from "../assets/foodSSE.jpg";
