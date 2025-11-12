@@ -25,7 +25,7 @@ import RajiGandhi from "../../assets/ssefaculty/mech/RajiGandhi.jpg";
 // Import EEE faculty images
 import dhanunjaya from '../../assets/ssefaculty/eee/dhanunjaya.jpg';
 import DNagaraju from '../../assets/ssefaculty/eee/DNagaraju.jpg';
-import khadarvali from '../../assets/facultyPictures/eee/SkhadarVali.jpg';
+import khadarvali from '../../assets/facultyPictures/eee/SKhadarVali.jpg';
 import NpavanKumar from '../../assets/ssefaculty/eee/NpavanKumar.jpg';
 import ramu from "../../assets/facultyPictures/eee/KRamu.jpg";
 import VinodKumar from "../../assets/facultyPictures/eee/VinodKumar.jpg";

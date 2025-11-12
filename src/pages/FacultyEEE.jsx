@@ -8,7 +8,7 @@ import SectionHeader from '../components/common/SectionHeader';
 // Import faculty images from the eee subdirectory
 import dhanunjaya from '../assets/ssefaculty/eee/dhanunjaya.jpg';
 import DNagaraju from '../assets/ssefaculty/eee/DNagaraju.jpg';
-import khadarvali from '../assets/facultyPictures/eee/khadarvali.jpg';
+import SKhadarVali from '../assets/facultyPictures/eee/SKhadarVali.jpg';
 import NpavanKumar from '../assets/ssefaculty/eee/NpavanKumar.jpg';
 import PavanKumar from '../assets/ssefaculty/eee/PavanKumar.jpg';
 import Ramu from '../assets/facultyPictures/eee/KRamu.jpg';
@@ -39,7 +39,7 @@ function FacultyEEE() {
     {
       id: 4,
       name: 'Mr. S Khadar Vali',
-      image: khadarvali,  // Using the imported image
+      image: SKhadarVali,  // Using the imported image (correct filename casing)
       designation: 'Assistant Professor'
     },
     {
