@@ -200,15 +200,7 @@ function RIT() {
       experience: "5 years",
       image: johannesR,
     },
-    {
-      id: 11,
-      name: "Ing. Philipp Habinger, MSc",
-      designation: "Professor",
-      department: "Digital Marketing",
-      specialization: "SEO, Social Media Marketing",
-      experience: "14 years",
-      image: riseLogo,
-    },
+    
     {
       id: 12,
       name: "Dipl.-Ing. Christoph Wimmer",
