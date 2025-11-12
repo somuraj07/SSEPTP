@@ -3,7 +3,7 @@ import Navbar from '../components/layout/Navbar';
 import Footer from '../components/layout/Footer';
 import SectionHeader from '../components/common/SectionHeader';
 import Button from '../components/common/Button';
-import '../styles/UndergraduateProgrammes.css';
+import '../styles/undergraduateProgrammes.css';
 import Contact from '../components/common/Contact';
 import girlsStudying from '../assets/girlsStudying.jpg';
 /**
