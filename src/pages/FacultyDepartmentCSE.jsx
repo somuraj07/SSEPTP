@@ -15,7 +15,7 @@ import RameshBabu from '../assets/facultyPictures/cse/NRameshBabu.jpg'; // Image
 import Chandana from '../assets/facultyPictures/cse/CChandana.jpg'; // Image 11
 import Sivananda from '../assets/facultyPictures/cse/MSivananda.jpg'; // Image 19
 import Nitya from '../assets/ssefaculty/cse/Nitya.jpg'; // Image 18
-import Meghana from '../assets/ssefaculty/cse/Meghana.jpg'; // Image 12
+import Meghana from '../assets/ssefaculty/cse/meghana.jpg'; // Image 12
 import Kalpana from '../assets/ssefaculty/cse/Kalpana.jpg'; // Image 9
 import Manasa from '../assets/ssefaculty/cse/Manasa.jpg'; // Image 15
 import MaheswarReddy from '../assets/ssefaculty/cse/MaheshwarReddy.jpg'; // Image 16
