@@ -326,11 +326,10 @@ const SSESports = () => {
             {Object.keys(sportsFacilities).map((sport) => (
               <button
                 key={sport}
-                className={`btn rounded-pill px-3 py-2 m-2 ${
-                  activeSport === sport
+                className={`btn rounded-pill px-3 py-2 m-2 ${activeSport === sport
                     ? "btn-brand text-white"
                     : "btn-outline-dark"
-                }`}
+                  }`}
                 onClick={() => setActiveSport(sport)}
               >
                 {sportsFacilities[sport].title}

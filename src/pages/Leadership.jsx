@@ -4,7 +4,7 @@ import Navbar from "../components/layout/Navbar";
 import Footer from "../components/layout/Footer";
 import SectionHeader from "../components/common/SectionHeader";
 import Button from "../components/common/Button";
-import chairmanMessage from "../assets/chairmanMessage.jpg";
+import chairmanMessage from "../assets/ChairmanMessage.jpg";
 import TG from "../assets/TG.jpeg";
 import Principal from "../assets/principal.jpg";
 import Secretary from "../assets/secretary.jpg";
