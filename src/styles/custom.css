@@ -2294,8 +2294,8 @@ body::-webkit-scrollbar,
   }
 
   .hero-cta-btn {
-    padding: 10px 20px;
-    font-size: 0.85rem;
+    padding: 8px 16px !important;
+    font-size: 0.8rem !important;
     width: auto;
     margin: 0 auto;
     display: inline-flex;
@@ -2305,15 +2305,16 @@ body::-webkit-scrollbar,
 
   /* Navigation adjustments for small screens */
   .carousel-custom-controls-wrapper {
-    bottom: 60px !important;
+    bottom: 45px !important;
   }
 
-  .carousel-custom-navigation {
-    bottom: 60px !important;
+  .carousel-control-prev,
+  .carousel-control-next {
+    bottom: 45px !important;
   }
 
   .carousel-footer-bar {
-    height: 120px !important;
+    height: 100px !important;
   }
 
   .slide-title {
@@ -2329,10 +2330,15 @@ body::-webkit-scrollbar,
   }
 
   .carousel-custom-controls-wrapper {
-    bottom: 50px !important;
+    bottom: 35px !important;
   }
 
-  .carousel-custom-navigation {
-    bottom: 50px !important;
+  .carousel-control-prev,
+  .carousel-control-next {
+    bottom: 35px !important;
+  }
+
+  .carousel-footer-bar {
+    height: 80px !important;
   }
 }
