@@ -2269,8 +2269,9 @@ body::-webkit-scrollbar,
   }
 
   .faculty-section-title {
-    font-size: 1.2rem;
-    margin-top: 30px;
+    font-size: 1rem;
+    margin-top: 20px;
+    margin-bottom: 15px;
   }
 
   .slide-content {
@@ -2280,8 +2281,14 @@ body::-webkit-scrollbar,
 
 @media (max-width: 575px) {
   .faculty-hexagon {
-    width: 65px;
-    height: 70px;
+    width: 55px;
+    height: 60px;
+  }
+
+  .faculty-section-title {
+    font-size: 0.85rem;
+    margin-top: 15px;
+    margin-bottom: 10px;
   }
 
   .faculty-hexagon-container {
