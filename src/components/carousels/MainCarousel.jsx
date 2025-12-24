@@ -118,6 +118,30 @@ const MainCarousel = ({ slides = [] }) => {
   const baseSlides = slides.length > 0 ? slides : defaultSlides;
   const displaySlides = isDesktop ? baseSlides : baseSlides.filter(slide => !slide.desktopOnly);
 
+  // Image Preloading Effect
+  useEffect(() => {
+    // Preload the main carousel images
+    const imagesToPreload = baseSlides.map(s => s.image);
+    // Also preload faculty images if they exist
+    const facultyImages = [paul, konradzalar, raimund, ennostubler, alexander, johannes];
+
+    [...imagesToPreload, ...facultyImages].forEach(imageSrc => {
+      if (imageSrc) {
+        const img = new Image();
+        img.src = imageSrc;
+      }
+    });
+
+    // Special priority for the first slide image to help LCP
+    if (baseSlides[0]?.image) {
+      const priorityImg = new Image();
+      priorityImg.src = baseSlides[0].image;
+      if ('fetchPriority' in priorityImg) {
+        priorityImg.fetchPriority = "high";
+      }
+    }
+  }, [baseSlides]);
+
   const handleSelect = (selectedIndex) => {
     setActiveIndex(selectedIndex);
   };
@@ -155,8 +179,19 @@ const MainCarousel = ({ slides = [] }) => {
                 backgroundSize: "100% 100%",
                 backgroundPosition: "center",
                 height: "100vh",
+                backgroundColor: "#111", // Prevent white flash
               }}
-            ></div>
+            >
+              {/* Invisible high-priority image for the first slide to trigger browser early fetch */}
+              {activeIndex === 0 && index === 0 && (
+                <img
+                  src={slide.image}
+                  alt=""
+                  style={{ display: 'none' }}
+                  fetchpriority="high"
+                />
+              )}
+            </div>
 
             <div className="slide-overlay"></div>
 
