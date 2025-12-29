@@ -290,14 +290,7 @@ const Sidebar = () => {
       link: "/rit",
       directLink: true,
     },
-    {
-      name: "College Login",
-      color: "#F9843D", // Orange
-      icon: "fas fa-chevron-right", // Changed to login icon
-      link: collegeLoginUrl,
-      directLink: true,
-      isExternal: true,
-    },
+    
   ];
 
   // Search functionality - memoized for performance
