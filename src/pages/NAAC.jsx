@@ -282,7 +282,7 @@ const NAAC = () => {
             <div className="col-lg-8">
               <h1 className="display-4 fw-bold text-white">NAAC Accreditation</h1>
               <p className="lead text-white opacity-90">
-                Sanskriti School of Engineering - Accredited with 'A' Grade by NAAC on February 1, 2024
+                Sanskrithi School of Engineering - Accredited with 'A' Grade by NAAC on February 1, 2024
               </p>
             </div>
           </div>
@@ -302,7 +302,7 @@ const NAAC = () => {
                 
                 <div className="mb-5">
                   <p className="lead text-center mb-4">
-                    At Sanskriti School of Engineering, we take immense pride in being accredited with 'A' Grade by the National Assessment and Accreditation Council (NAAC) on February 1, 2024. This achievement reflects our commitment to providing quality education and fostering an environment that promotes excellence and innovation.
+                    At Sanskrithi School of Engineering, we take immense pride in being accredited with 'A' Grade by the National Assessment and Accreditation Council (NAAC) on February 1, 2024. This achievement reflects our commitment to providing quality education and fostering an environment that promotes excellence and innovation.
                   </p>
                   
                   <div className="row align-items-center">

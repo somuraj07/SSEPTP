@@ -350,7 +350,7 @@ const Laboratory = () => {
               <h5 className="text-primary text-uppercase fw-semibold mb-2">Practical Learning</h5>
               <h2 className="fw-bold mb-4 position-relative pb-3 about-heading">Our Laboratory Infrastructure</h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, we believe that theoretical knowledge must be complemented with 
+                At Sanskrithi School of Engineering, we believe that theoretical knowledge must be complemented with 
                 practical experience. Our laboratories are equipped with the latest equipment and technology to 
                 provide students with hands-on learning opportunities that bridge the gap between theory and practice.
               </p>
@@ -486,7 +486,7 @@ const Laboratory = () => {
             <div className="col-lg-8">
               <h2 className="display-5 fw-bold mb-4">Experience Hands-on Learning</h2>
               <p className="lead mb-5">
-                Join Sanskriti School of Engineering to access our state-of-the-art laboratories
+                Join SanskrithiSchool of Engineering to access our state-of-the-art laboratories
               </p>
               <div className="d-flex justify-content-center gap-3 flex-wrap">
                 <Button

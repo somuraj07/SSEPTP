@@ -245,7 +245,7 @@ const AcademicFacilities = () => {
           <SectionHeader
             subtitle="Learning Environment"
             title="Our Academic Infrastructure"
-            description="Sanskriti School of Engineering provides world-class facilities to support teaching, learning, and research activities"
+            description="Sanskrithi School of Engineering provides world-class facilities to support teaching, learning, and research activities"
             centered={true}
           />
 

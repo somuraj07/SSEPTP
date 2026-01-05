@@ -49,7 +49,7 @@ const DeanMessage = () => {
                 Dear Students,
               </p>
               <p className="mb-4">
-                Welcome to Sanskriti School of Engineering, where we strive to provide an educational experience that goes beyond textbooks and classrooms. Our academic programs are designed to foster critical thinking, problem-solving abilities, and a spirit of innovation among students.
+                Welcome to Sanskrithi School of Engineering, where we strive to provide an educational experience that goes beyond textbooks and classrooms. Our academic programs are designed to foster critical thinking, problem-solving abilities, and a spirit of innovation among students.
               </p>
               <p>
                 Our curriculum is regularly updated to keep pace with industry demands, and our teaching methodology emphasizes hands-on learning through projects, internships, and industry collaborations. We believe that true education empowers students to become lifelong learners and responsible global citizens.

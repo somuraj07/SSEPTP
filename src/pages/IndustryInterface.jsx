@@ -95,7 +95,7 @@ const IndustryInterface = () => {
               <Badge bg="primary" className="mb-3 px-3 py-2">Strategic Partnership</Badge>
               <h2 className="fw-bold mb-4">Industry Collaboration</h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, we believe in the power of industry-academia partnerships. Our robust industry interface program ensures that students are exposed to real-world challenges and industry practices through various initiatives.
+                At Sanskrithi School of Engineering, we believe in the power of industry-academia partnerships. Our robust industry interface program ensures that students are exposed to real-world challenges and industry practices through various initiatives.
               </p>
               <p>
                 We have established partnerships with leading organizations across various sectors to facilitate internships, guest lectures, industrial visits, and collaborative research projects. These connections help our students stay updated with the latest industry trends and enhance their employability.
