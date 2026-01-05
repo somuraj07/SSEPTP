@@ -182,7 +182,7 @@ const CampusFacilities = () => {
                 </h1>
                 <p className="lead mb-5 animate__animated animate__fadeIn animate__delay-2s">
                   Discover the amenities and facilities that enhance student
-                  life at Sanskriti School of Engineering
+                  life at Sanskrithi School of Engineering
                 </p>
                 <div className="d-flex justify-content-center gap-3 animate__animated animate__fadeIn animate__delay-3s">
                   <Button

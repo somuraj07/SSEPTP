@@ -81,7 +81,7 @@ const LifeAtSSE = () => {
     academics: {
       title: "Academic Excellence",
       description:
-        "At Sanskriti School of Engineering, academics go beyond the classroom. Our innovative teaching methodologies, industry-aligned curriculum, and hands-on learning approach ensure that students develop both theoretical knowledge and practical skills.",
+        "At Sanskrithi School of Engineering, academics go beyond the classroom. Our innovative teaching methodologies, industry-aligned curriculum, and hands-on learning approach ensure that students develop both theoretical knowledge and practical skills.",
       features: [
         {
           icon: "fas fa-chalkboard-teacher",
@@ -214,7 +214,7 @@ const LifeAtSSE = () => {
         },
         {
           icon: "fas fa-music",
-          title: "Sanskriti Utsav",
+          title: "Sanskrithi Utsav",
           description:
             "Cultural festival celebrating diverse art forms and traditions",
         },
@@ -524,7 +524,7 @@ const LifeAtSSE = () => {
                 Experience the Vibrant
               </h5>
               <h1 className="display-3 fw-bold mb-4 animate__animated animate__fadeIn animate__delay-1s">
-                Life at Sanskriti School of Engineering
+                Life at Sanskrithi School of Engineering
               </h1>
               <p className="lead mb-5 animate__animated animate__fadeIn animate__delay-2s">
                 Discover a perfect blend of academic excellence, cultural
@@ -556,7 +556,7 @@ const LifeAtSSE = () => {
                 A Thriving Community of Future Leaders
               </h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, we believe that education
+                At Sanskrithi School of Engineering, we believe that education
                 extends beyond the classroom. Our vibrant campus life is
                 designed to nurture holistic development, foster creativity, and
                 build lifelong relationships.

@@ -11,7 +11,7 @@ import saikumar from "../../assets/saikumar.jpg"
 const TestimonialsSection = ({
   subtitle = "Student Testimonials",
   title = "What Our Students Say",
-  description = "Hear from our students about their experiences at Sanskriti School of Engineering.",
+  description = "Hear from our students about their experiences at Sanskrithi School of Engineering.",
   testimonials = []
 }) => {
   // Default testimonials with image placeholders

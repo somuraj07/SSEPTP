@@ -90,7 +90,7 @@ const AdmissionsOverview = () => {
               <h5 className="text-primary">Welcome to SSE</h5>
               <h2 className="fw-bold mb-4">Begin Your Engineering Journey</h2>
               <p className="mb-4">
-                At Sanskriti School of Engineering, we offer a transparent, merit-based 
+                At Sanskrithi School of Engineering, we offer a transparent, merit-based 
                 admission process designed to select candidates with academic excellence, 
                 innovative thinking, and passion for engineering.
               </p>

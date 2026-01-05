@@ -30,7 +30,7 @@ const Leadership = () => {
               <h1 className="display-4 fw-bold text-white">Our Leadership</h1>
               <p className="lead text-white opacity-90">
                 Meet the visionaries and dedicated professionals guiding
-                Sanskriti School of Engineering
+                Sanskrithi School of Engineering
               </p>
             </Col>
           </Row>

@@ -8,7 +8,7 @@ import girlsnearsteps from "../../assets/girlsnearsteps.jpg";
 const AboutSection = ({
   title = "About SSE",
   heading = "Shaping Engineers for Tomorrow's World",
-  description = "Sanskriti School of Engineering (SSE) is a premier engineering institution in Andhra Pradesh, committed to academic excellence and holistic development of students.",
+  description = "Sanskrithi School of Engineering (SSE) is a premier engineering institution in Andhra Pradesh, committed to academic excellence and holistic development of students.",
   imageUrl = girlsnearsteps,
   yearsOfExperience = 15,
   features = [],
